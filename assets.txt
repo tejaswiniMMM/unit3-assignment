@@ -1,0 +1,2 @@
+This folder contains media and static files used in the project.
+Add images, icons, diagrams, and other visual assets here.
