@@ -1,0 +1,2 @@
+This folder stores all test scripts for the project.
+Add unit tests, integration tests, and automated test files here.
